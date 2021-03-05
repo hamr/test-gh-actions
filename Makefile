@@ -1,2 +1,2 @@
 hello.txt:
-	touch $@
+	echo hello > $@
